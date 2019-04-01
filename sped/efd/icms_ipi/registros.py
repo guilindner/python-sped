@@ -2513,6 +2513,7 @@ class RegistroH010(Registro):
         Campo(8, 'COD_PART'),
         Campo(9, 'TXT_COMPL'),
         Campo(10, 'COD_CTA'),
+        Campo(11, 'VL_ITEM_IR'),
     ]
 
 
